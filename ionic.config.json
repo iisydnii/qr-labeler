@@ -1,0 +1,8 @@
+{
+  "name": "QRLabeler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "61410ae0"
+}
